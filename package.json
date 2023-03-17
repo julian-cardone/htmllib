@@ -1,0 +1,24 @@
+{
+  "name": "htmllib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ajax.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian-cardone/htmllib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julian-cardone/htmllib/issues"
+  },
+  "homepage": "https://github.com/julian-cardone/htmllib#readme",
+  "dependencies": {
+    "ajax": "^0.0.4"
+  }
+}
